@@ -7,7 +7,7 @@
 ## Key Features
 * The application generates simulated point spread functions (PSFs) for point light sources and fits them using a 2D Gaussian function.
 Users can adjust parameters such as signal-to-noise ratio (SNR) and wavelength to observe their effects on localization precision.
-
+![image](https://github.com/Yuteng0927/MatLab-GUI-of-Single-Molecule-Localization-Microscopy-SMLM-Comprehension/blob/main/Images/MatLab%20App.jpeg)
 * The application includes a module for 3D SMLM that demonstrates PSF engineering, specifically the Double Helix PSF, enabling users to visualize 3D reconstructions of molecular structures.
 
 * The GUI illustrates how noise levels, SNR, and light wavelength impact the precision of localizing single-molecule PSFs.
@@ -16,6 +16,7 @@ Reconstruction of Super-Resolved Images:
 
 * Users can generate super-resolved images by simulating molecular activation events and accumulating localization data.
 The GUI shows the step-by-step process of reconstructing high-resolution images from individual molecule localizations, providing a detailed comparison between traditional fluorescence microscopy images and super-resolved images.
+![image](https://github.com/Yuteng0927/MatLab-GUI-of-Single-Molecule-Localization-Microscopy-SMLM-Comprehension/blob/main/Images/Image%20illustration.jpeg)
 
 ## Application Design
 The GUI is organized into three distinct tabs:
