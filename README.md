@@ -2,6 +2,7 @@
 
 ## Overview
 #### This project provides a Graphical User Interface (GUI) to facilitate the understanding of Single-Molecule Localization Microscopy (SMLM) utilizing MatLab language. The application is designed for educational purposes, aiming to help students grasp the fundamental principles of super-resolution microscopy through interactive simulations and visualizations. It allows users to explore concepts like image formation, point spread functions (PSFs), and the influence of noise and wavelength on localization precision.
+![image](https://github.com/Yuteng0927/MatLab-GUI-of-Single-Molecule-Localization-Microscopy-SMLM-Comprehension/blob/main/Images/abstract.jpeg)
 
 ## Key Features
 * The application generates simulated point spread functions (PSFs) for point light sources and fits them using a 2D Gaussian function.
@@ -18,7 +19,7 @@ The GUI shows the step-by-step process of reconstructing high-resolution images 
 
 ## Application Design
 The GUI is organized into three distinct tabs:
-
+![image](https://github.com/Yuteng0927/MatLab-GUI-of-Single-Molecule-Localization-Microscopy-SMLM-Comprehension/blob/main/Images/MatLab%20App%20panels.jpeg)
 * Tab 1: PSF Simulation and Localization Precision
 Users can manipulate photon counts, SNR, pixel size, and wavelength to see how these parameters affect localization accuracy. This tab also demonstrates the Gaussian fitting algorithm used to pinpoint the center of the PSF.
 
